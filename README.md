@@ -1,5 +1,5 @@
 # repo1
-Hell0 Everyone
+Hello Everyone
 This is Swayam Swain
 
 
